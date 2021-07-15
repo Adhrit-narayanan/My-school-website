@@ -1,0 +1,30 @@
+body{
+  text-align: center;
+    background-color:rgb(233, 236, 42);
+  }
+  #appu{
+    height: 300px;
+    width: 300px;
+  }
+  #about{
+    background-color: aqua;
+  }
+  #images{
+    background-color: burlywood;
+  }
+  #man{
+    height: 900px;
+    width: 900px;
+  }
+  #websites{
+    background-color: cyan;
+  }
+  #contact{
+    background-color: rgb(245, 150, 118);
+  }
+  #school{
+    background-color: rgb(99, 247, 99);
+  }
+  html{
+    scroll-behavior: smooth;
+}
